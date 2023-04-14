@@ -1,1 +1,4 @@
-*.js
+*.jsx
+*.tsx
+*.mjs
+*.mts
