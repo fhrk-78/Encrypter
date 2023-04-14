@@ -1,3 +1,7 @@
+/**
+ * Copyright (c) 2023 FhRuby All right reserved.
+ */
+
 let key__ = document.getElementById('key') as HTMLInputElement;
 let before__ = document.getElementById('before') as HTMLInputElement;
 let after__ = document.getElementById('after') as HTMLInputElement;
